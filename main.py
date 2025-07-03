@@ -8,8 +8,8 @@ import pytesseract
 import os
 
 # --- API KEYS ---
-GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
-TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+GEMINI_API_KEY = "AIzaSyAbyk4r2SfZJelOq2u2DL1ll87kF2Dteag"
+TELEGRAM_BOT_TOKEN = "7616675073:AAGoV2rIXkaBDyzCK2P5X50VPnZZpPqMbuU"
 
 # --- Gemini Setup ---
 genai.configure(api_key=GEMINI_API_KEY)
